@@ -1,3 +1,3 @@
 
-![Cron with Module](./cron-numpy/ss1.png)
+![Cron with Python Module](/cron-numpy/ss1.png)
 
