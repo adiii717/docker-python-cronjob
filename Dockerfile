@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.7
 RUN apt-get update && apt-get -y install cron vim
 WORKDIR /app
 COPY crontab /etc/cron.d/crontab
